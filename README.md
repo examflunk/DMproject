@@ -3,8 +3,23 @@
 
 #### UTID :-1001662386
 
+
+
 **Summary :-** The goal of the project is building a classifier that predicts ratings for the reviews 
 using the boardgame review dataset
+
+**Website Demo**
+- https://youtu.be/Aa2DlJsPXmg
+
+**Website Link**
+- https://ratingspredictor.herokuapp.com/
+
+**Github url**
+- https://github.com/tiru1056/DMproject
+
+**Kaggale Submission**
+
+- https://www.kaggle.com/tirumalamanukonda/ratings-classifier?scriptVersionId=49346267
 
 The implementation of the project is as follows
 
